@@ -13,11 +13,9 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Musa Mdaka</span></h1>
                 <p>
-                    A dedicated and energetic individual with 2 years working experience plus 1 
-                    year self taught and freelancing on graphic design seeking to
-                    join a fast pased organisation as a Software Developer to contribute to the
-                    delivery of quality software solutions by applying interpersonal skills and
-                    knowledge of program design.
+                    A dedicated and energetic individual with 2 years working experience, plus 1 
+                    year freelancing, seeking to join a fast pased organisation as a Software Developer to contribute to the
+                    delivery of quality software solutions by applying interpersonal skills andknowledge of program design.
                 </p>
                 <div className="icons">
                     <a href="https://github.com/MdakaMM?tab=repositories" target="_blank" className="icon i-github" rel="noreferrer">
