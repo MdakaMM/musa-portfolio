@@ -2,6 +2,12 @@ import React from 'react'
 import styled from 'styled-components';
 import { NavLink } from 'react-router-dom';
 import avatar from '../img/avatar.png';
+import HomeIcon from '@material-ui/icons/Home';
+import PersonIcon from '@material-ui/icons/Person';
+import FileCopyIcon from '@material-ui/icons/FileCopy';
+import WorkIcon from '@material-ui/icons/Work';
+import WebIcon from '@material-ui/icons/Web';
+import PhoneIcon from '@material-ui/icons/Phone';
 
 function Navigation() {
     return (
@@ -11,22 +17,22 @@ function Navigation() {
             </div>
             <ul className="nav-items">
                 <li className="nav-item">
-                    <NavLink to="/" activeClassName="active-class" exact>Home</NavLink>
+                    <NavLink to="/" activeClassName="active-class" exact><HomeIcon/> Home</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink to="/about" activeClassName="active-class" exact>About</NavLink>
+                    <NavLink to="/about" activeClassName="active-class" exact><PersonIcon/> About</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink to="/resume" activeClassName="active-class" exact>Resume</NavLink>
+                    <NavLink to="/resume" activeClassName="active-class" exact><FileCopyIcon/> Resume</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink to="/portfolios" activeClassName="active-class" exact>Portfolios</NavLink>
+                    <NavLink to="/portfolios" activeClassName="active-class" exact><WorkIcon/> Portfolios</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink to="/blogs" activeClassName="active-class" exact>Blogs</NavLink>
+                    <NavLink to="/blogs" activeClassName="active-class" exact><WebIcon/> Blogs</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink to="/contact" activeClassName="active-class" exact>Contact</NavLink>
+                    <NavLink to="/contact" activeClassName="active-class" exact><PhoneIcon/> Contact</NavLink>
                 </li>
             </ul>
             <footer className="footer">
@@ -67,7 +73,7 @@ const NavigationStyled = styled.nav`
             display: block;
             a{
                 display: block;
-                padding: .45rem 0;
+                padding: .35rem 0;
                 position: relative;
                 z-index: 10;
                 text-transform: uppercase;

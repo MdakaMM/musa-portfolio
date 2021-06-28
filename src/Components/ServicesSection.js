@@ -16,19 +16,19 @@ function ServicesSection() {
                     <ServiceCard 
                         image={design} 
                         title={'Web Development'} 
-                        paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+                        paragraph={'FullStack Developer, able to develop both in Front and Backend.'}
                     />
                     <div className="mid-card">
                         <ServiceCard 
                             image={intelligence} 
                             title={'Graphic Design'} 
-                            paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+                            paragraph={'Create Graphics using Adobe Illastrator, Photoshop and XD for website prototype.'}
                         />
                     </div>
                     <ServiceCard 
                         image={gamedev} 
                         title={'Mobile Development'} 
-                        paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+                        paragraph={'Currently in a process of learning Mobile Development'}
                     />
                 </div>
             </ServicesSectionStyled>

@@ -23,7 +23,6 @@ function ImageSection() {
                         <p>Full Name</p>
                         <p>Email</p>
                         <p>Nationality </p>
-                        <p>Languages </p>
                         <p>Location</p>
                         <p>Service</p>
                     </div>
@@ -31,7 +30,6 @@ function ImageSection() {
                         <p>: Musa Mandla Mdaka</p>
                         <p>: mdakamm@gmail.com</p>
                         <p>: South African </p>
-                        <p>: English, Xitsonga, Siswati</p>
                         <p>: Gauteng, Centurion</p>
                         <p>: FullStack Developer</p>
                     </div>
