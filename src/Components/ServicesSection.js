@@ -16,7 +16,7 @@ function ServicesSection() {
                     <ServiceCard 
                         image={design} 
                         title={'Web Development'} 
-                        paragraph={'FullStack Developer, able to develop both in Front and Backend.'}
+                        paragraph={'FullStack Developer, Im comfortable working both in Front and Backend development.'}
                     />
                     <div className="mid-card">
                         <ServiceCard 
@@ -28,7 +28,7 @@ function ServicesSection() {
                     <ServiceCard 
                         image={gamedev} 
                         title={'Mobile Development'} 
-                        paragraph={'Currently in a process of learning Mobile Development'}
+                        paragraph={'Currently learning Mobile Development with React Native.'}
                     />
                 </div>
             </ServicesSectionStyled>

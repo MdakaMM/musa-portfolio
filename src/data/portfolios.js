@@ -7,10 +7,10 @@ import img3 from '../img/portImages/maya-3.png';
 const portfolios = [
     {
         id: 1,
-        category: 'CSS',
+        category: 'HTML/CSS',
         image: css1,
         // link1: 'https://www.google.com',
-        link2: 'https://lamanjoloholdings.co.za/index.php',
+        link2: 'https://igtech.co.za/l/index.php',
         title: 'Lamanjolo Website',
         text: 'Created with HTML, Bootstrap, CSS and PHP.'
     },
@@ -25,7 +25,7 @@ const portfolios = [
     },
     {
         id: 3,
-        category: 'Javascript',
+        category: 'HTML/CSS',
         image: img2,
         // link1: 'https://www.google.com',
         link2: 'https://igtech.co.za/thecore/',
@@ -34,12 +34,12 @@ const portfolios = [
     },
     {
         id: 4,
-        category: 'Animation',
+        category: 'HTML/CSS',
         image: img2,
-        link1: 'https://www.google.com',
-        link2: 'https://www.google.com',
-        title: 'How To Use Blender',
-        text: 'Free Animation Software'
+        // link1: 'https://www.google.com',
+        link2: 'http://igtech.co.za/richdad/',
+        title: 'Richdad Website',
+        text: 'Created using HTML5, CSS3, Javascript and JQuery'
     },
     {
         id: 5,
@@ -47,17 +47,17 @@ const portfolios = [
         image: react1,
         link1: 'https://www.google.com',
         link2: 'https://www.google.com',
-        title: 'Responsive Portfolio Website',
-        text: 'Created using different technologies such as Material UI, Styled-Components and more...'
+        title: 'React Application',
+        text: 'React Application in progress'
     },
     {
         id: 6,
-        category: 'CSS',
+        category: 'Javascript',
         image: css2,
         link1: 'https://www.google.com',
         link2: 'https://www.google.com',
-        title: 'Microsoft Website Clone',
-        text: 'Created using HTML and CSS'
+        title: 'Tic Tac Toe Game',
+        text: 'Tic Tac Toe game coming soon'
     }
 ]
 

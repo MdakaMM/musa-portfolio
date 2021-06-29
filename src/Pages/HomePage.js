@@ -2,6 +2,7 @@ import React from 'react'
 import styled from 'styled-components';
 import GithubIcon from '@material-ui/icons/GitHub';
 import LinkedinIcon from '@material-ui/icons/LinkedIn';
+import WhatsAppIcon from '@material-ui/icons/WhatsApp';
 import Particle from '../Components/Particle';
 
 function HomePage() {
@@ -23,6 +24,9 @@ function HomePage() {
                     </a>
                    <a href="https://www.linkedin.com/in/musa-mdaka-9a3721185/" target="_blank" className="icon i-linkedin" rel="noreferrer">
                         <LinkedinIcon />
+                    </a>
+                    <a href="https://wa.me/+27765124625" target="_blank" className="icon i-whatsapp" rel="noreferrer">
+                        <WhatsAppIcon />
                     </a>
                 </div>
             </div>

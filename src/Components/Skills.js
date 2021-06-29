@@ -89,7 +89,7 @@ function Skills() {
                         // text={'95%'}
                     />
                     <ProgressBar
-                        title={'Express'}
+                        title={'Express(server)'}
                         width={'75%'}
                         // text={'75%'}
                     />
