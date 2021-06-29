@@ -34,7 +34,7 @@ function ImageSection() {
                         <p>: FullStack Developer</p>
                     </div>
                 </div>
-                <a href="https://drive.google.com/file/d/1IifZyeZP8jN-oa6F9aVHVB7O-MufDxso/view" target="_blank" rel="noreferrer"><PrimaryButton title={'Download Cv'} /></a>
+                <a href="https://drive.google.com/file/d/1KDbJ93_b8_GWuFAIHCbEFq_m0nxUHJrV/view?usp=sharing" target="_blank" rel="noreferrer"><PrimaryButton title={'Download Cv'} /></a>
             </div>
         </ImageSectionStyled>
     )

@@ -18,7 +18,7 @@ const blogs = [
         date: '01',
         month: 'April',
         image: blog2,
-        link: 'https://www.google.co.uk/'
+        link: '#'
     },
     {
         id: 3,
@@ -34,7 +34,7 @@ const blogs = [
         date: '01',
         month: 'April',
         image: blog4,
-        link: 'https://www.google.co.uk/'
+        link: '#'
     }
 ]
 
