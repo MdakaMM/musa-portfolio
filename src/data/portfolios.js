@@ -45,10 +45,10 @@ const portfolios = [
         id: 5,
         category: 'React JS',
         image: react1,
-        link1: 'https://www.google.com',
-        link2: 'https://www.google.com',
+        link1: 'https://github.com/MdakaMM/landing-page',
+        link2: 'https://landing-page-banking.netlify.app/',
         title: 'React Application',
-        text: 'React Application in progress'
+        text: 'Landing page demonstration made in Reactjs.'
     },
     {
         id: 6,
@@ -56,8 +56,8 @@ const portfolios = [
         image: css2,
         link1: 'https://www.google.com',
         link2: 'https://www.google.com',
-        title: 'Tic Tac Toe Game',
-        text: 'Tic Tac Toe game coming soon'
+        title: 'Coming soon',
+        text: 'Coming soon'
     }
 ]
 
